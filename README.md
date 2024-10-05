@@ -5,7 +5,7 @@
 - 📫 How to reach me **pritambanik554@gmail.com**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saikiran-p-a0243569/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@techno-pritam) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-banik/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@techno-pritam) 
 [![Docker](https://img.shields.io/badge/docker-12100E?logo=docker&logoColor=blue)](https://hub.docker.com/u/pbanik554) 
 
 # 💻 Tech Stack:
