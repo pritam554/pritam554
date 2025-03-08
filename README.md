@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **AI/ML**
 - 👯 I’m looking to collaborate on **Cloud Native Project**
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking to help with **DevOps**
 - 📫 How to reach me **pritambanik554@gmail.com**
 
 ## 🌐 Socials:
